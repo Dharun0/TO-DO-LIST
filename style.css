@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: salmon;
+  background: rgb(238, 155, 145);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -56,3 +56,4 @@ li button {
   padding: 4px 6px;
   cursor: pointer;
 }
+
